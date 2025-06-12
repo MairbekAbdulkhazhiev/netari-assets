@@ -1,0 +1,15 @@
+{
+    "name": "Netari",
+    "symbol": "NTI",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_USER/netari-assets/main/logo.png",
+    "tags": [
+        "utility",
+        "ai",
+        "payment"
+    ],
+    "extensions": {
+        "website": "https://netaricoin.io",
+        "description": "Netari is a Solana-based token for AI tools, content access, and payment solutions in the Web3 ecosystem."
+    }
+}
